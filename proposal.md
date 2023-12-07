@@ -30,7 +30,7 @@ The development of a workspace application that integrates  features such as cal
 
 ## Technology Stack
 
-- **Backend:** python and nodejsreact
+- **Backend:** python and nodejs
 - **Frontend:** nextjs, reactjs, css, sass, tailwindcss.
 - **Database:** postgresql
 - **Real-time Communication:** tbd
